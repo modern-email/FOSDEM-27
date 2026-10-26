@@ -112,7 +112,7 @@ Following last year's good practice, we will reserve a table for an informal
 "friends of email" dinner/drinks session, on Saturday evening, January 30, at
 the end of the DevRoom day.  Put your name up at
 https://github.com/modern-email/FOSDEM-27/wiki/Hackathon-and-Dinner
-and/or contact one of the organizers so we can guess the group size (last year
+and/or contact one of the organizers so we can guess the group size (in 2025
 we reserved for 15 and 40+ showed up). Venue proposals welcome as well.
 
 ## Recordings
