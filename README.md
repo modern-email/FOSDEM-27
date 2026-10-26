@@ -69,7 +69,9 @@ appreciated, e.g., a collection of links to your work, talks, projects, blog
 posts, etc.
 
 Submissions must be made through Pretalx (https://fosdem.org/submit) no later
-than **Saturday, 21 November, 2026**.
+than **Saturday, 21 November, 2026**. Be sure to propose a talk at
+[pretalx.fosdem.org](https://pretalx.fosdem.org/fosdem-2027/cfp) and
+select the "Modern email Track".
 
 The suggested duration for a talk is **25 minutes** (20 minutes presentation +
 5 minutes Q&A). However, we *explicitly* invite you to propose the best
