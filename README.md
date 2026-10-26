@@ -86,7 +86,7 @@ your talk.
 
 ## Important dates
 
-* 25 Oct: Modern Email DevRoom open for talk submissions
+* 27 Oct: Modern Email DevRoom open for talk submissions
 * 21 Nov: Modern Email DevRoom submission deadline
 * 7 Dec: Announcement of final schedule
 * 29 Jan: Pre-FOSDEM Modern Email Hackathon (TBC)
